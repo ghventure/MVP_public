@@ -1,4 +1,5 @@
 #COMMIT 9/18/2024
+/nl
 #File structure of the computerized growing chamber (CGC) repository (MVP) is as follows
 #MVP
   #data: currently hosts no logs or files
