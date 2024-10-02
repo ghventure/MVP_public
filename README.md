@@ -29,3 +29,8 @@
     #cgi-bin holds aforementioned web service python scripts  
     
   
+#COMMIT 10/2/24
+#LOCAL CHANGE: TGCA FOURTH FLOOR
+#REMOVED REFERENCES TO COUCHDB FROM NECESSARY CGC FUNCTIONS:
+#LightOn.py and LightOff.py
+#Fan.py
